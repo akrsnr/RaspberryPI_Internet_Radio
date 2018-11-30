@@ -30,9 +30,13 @@ Python
 The following files involve required codes.
 
 `lcd.py`   ⇒ LCD display
+
 `soner.py` ⇒ KY040's codes with child process which is Mplayer
+
 `volume.py` ⇒ Potentiometer
+
 `radyoCs.py` ⇒ Read and reserve urls which are in urls.txt
+
 `urls.txt` ⇒ Radio Station's IPs or URLs
 <!---   `   -->
 
