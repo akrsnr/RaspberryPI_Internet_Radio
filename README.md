@@ -53,7 +53,7 @@ We need to create a subprocess by `fork` and to communicate with the child runni
  - Track Artist
  - Track Name
  
- Then we parse and write the information FIFO created to communicate with LCD display. 
+ Then we parse and write the information into FIFO created to communicate with LCD display. 
 
 ## Steps and Photos
 
