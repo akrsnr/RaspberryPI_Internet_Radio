@@ -2,7 +2,7 @@
 
 It is my one of mandatory undergraduate projects in which radio stations being able to stream over IP/URL can be listened. Detailed explanation follows. (If the following photo doesn't appear, [click here](https://photos.app.goo.gl/QeWyVxJw9yiyN9DW6))
 
-![enter image description here](https://lh3.googleusercontent.com/p1l_oPajLNE1K4OeajQv6zvVBBHi1jDBZA_FtwvAwANzyz_qBXgeE0DxUEh-bZ3kw-cPVsLrEs2Zk7Y4WkE8guMTD-rRQMSMYoCeFUacUPl4fCaGlns3Wi0nuV9szN1dS8k8y2EleMuik_vPtflsnh6yZTRa67lxVZexmZqhkiAWxKzHpnhKmIS4fHJ_6oYEzPmvI0bE3oUiLGTcJePJhAf04VISV26Aq7JHo7PHDFm6e6-A5FouPfljmIi8-dfNtYlhaX3041OZPdIaQuFjFrazxeQ7UNslXbcSPYamxR-Tl88R9yl82EyjyVIukDGbu-LlZQ82X1SoUzAJrPU7NDUnA05eZxUKGjovT8b7KTK71BqdO4_rOABQ_AYY1vfPjMUtI7_LbexDVT3jfdmpPd0p4zlQeNSTijP8dr7DZJiMpN_CvQYa3SwaQHpjAq7CP35blqmLtKAbVe9guo9qZU58CNbk_ix1Tsx5qe2plcOtdOg1KJRTSqyhqhU6uMVfs3oHLUphuZAJAKNE22TqpgrkegIuxtSY1uE-67lrjpymMWR8K_3Z619VaafwDJLrVMpHM0WElkiVQZcwxN2-js7t9nqqxGoikvLrW3AEKYnuinXUsZFpAiRmwtNfzwL13rpReNAeQPyB8TQcyFua828=w2744-h1502-no)
+![enter image description here](http://snrkr.com/soner_radyo.jpg)
 
 ## Project's Language
 
