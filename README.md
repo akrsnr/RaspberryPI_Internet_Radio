@@ -2,7 +2,7 @@
 
 It is my one of mandatory undergraduate projects in which radio stations being able to stream over IP/URL can be listened. Detailed explanation follows. (If the following photo doesn't appear, [click here](https://photos.app.goo.gl/QeWyVxJw9yiyN9DW6))
 
-![enter image description here](http://snrkr.com/soner_radyo.jpg)
+![enter image description here](https://github.com/akrsnr/pics/blob/master/radyo.jpg?raw=true)
 
 ## Project's Language
 
