@@ -47,7 +47,7 @@ Firstly, remember one of the rule of thumbs:
 
 The fact that there are applications of the components means we can use instructions existing already [KY040's module](https://github.com/martinohanlon/KY040) and [ how to connect it](http://codelectron.com/rotary-encoder-with-raspberry-pi/) --- [For 10K potentiometer(volume)](https://learn.adafruit.com/reading-a-analog-in-and-controlling-audio-volume-with-the-raspberry-pi/overview). Lastly, [20x4 LCD Display](https://www.raspberrypi-spy.co.uk/2012/08/20x4-lcd-module-control-using-python/)
 
-We need to create a subprocess by `fork` and to communicate with the child running `mplayer` we need PIPE. What we need from `mplayer` is
+We need to create a subprocess by `fork`ing and to communicate with the child running `mplayer` via PIPE. What we need from `mplayer` is
 
  - Station Name
  - Track Artist
